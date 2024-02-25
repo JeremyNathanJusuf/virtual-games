@@ -5,5 +5,5 @@ A web based virtual game for freshmen to play during orientation. Freshmen are r
 
 ## Tech Stack
 - Frontend: Next JS
-- Backend: Express JS and Prisma DB
+- Backend: Express JS, Cloudinary and Prisma DB
 
